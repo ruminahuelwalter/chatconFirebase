@@ -1,0 +1,27 @@
+ {
+    "msg1": {
+        "orden": 1,
+        "mensaje": "Buenos dias 1",
+        "author": "NanoScript"
+    },
+    "msg2": {
+        "orden": 2,
+        "mensaje": "Buenos dias 2",
+        "author": "NanoScript"
+    },
+    "msg3": {
+        "orden": 3,
+        "mensaje": "Buenos dias 3",
+        "author": "NanoScript"
+    },
+    "msg4": {
+        "orden": 4,
+        "mensaje": "Buenos dias 4",
+        "author": "NanoScript"
+    },
+    "msg5": {
+        "orden": 5,
+        "mensaje": "Buenos dias 5",
+        "author": "NanoScript"
+    }
+ }

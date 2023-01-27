@@ -1,0 +1,14 @@
+{
+  "name": "coriweb",
+  "version": "1.0.0",
+  "description": "Esta es nuestra primera web con firebase",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "firebase, firstapp",
+  "license": "MIT",
+  "dependencies": {
+    "firebase": "^9.16.0"
+  }
+}
